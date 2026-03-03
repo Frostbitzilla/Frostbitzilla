@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-RSU 2nd year student , pianist and programmer.
+RSU 2nd year student 
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [deadlight495@gmail.com](mailto:deadlight495@gmail.com)
